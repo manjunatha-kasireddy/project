@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+* {
+    margin: 0;
+    padding: 10px;
+    outline: none;
+    font-family: 'Chalkduster';
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1593642532400-2682810df593?ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxMXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=100");
+}
+
+.first {
+    -moz-box-align: center;
+    padding: 10px;
+}
+
+.cd {
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Verdana, sans-serif';
+}
